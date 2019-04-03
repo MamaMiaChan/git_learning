@@ -1,4 +1,4 @@
-we are going to record some git commands here.
+we are going to record some git commands here.(changes by mamamia)
 # learnig Git
 
 ## git clone
@@ -18,3 +18,5 @@ clone from [github](https://github.com)
 
 
 my beauty daughter!
+
+changes by wenchan
